@@ -1,28 +1,22 @@
 {
   "tasks": [
     {
-      "text": "dsb d",
-      "day": "dbdb",
+      "text": "rsgdfg",
+      "day": "fnfdmn",
       "reminder": true,
       "id": 1
     },
     {
-      "text": "dfb",
-      "day": "dhbdf",
+      "text": "fh",
+      "day": "fn",
       "reminder": false,
       "id": 2
     },
     {
-      "text": "dnbdng",
-      "day": "dnbdf",
+      "text": "fjngfn",
+      "day": "fnf",
       "reminder": true,
       "id": 3
-    },
-    {
-      "text": "dshbgd",
-      "day": "dsbn df",
-      "reminder": false,
-      "id": 4
     }
   ]
 }
